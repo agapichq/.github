@@ -1,0 +1,8 @@
+# CODEOWNERS for agapichq/.github
+# The codeowners for any given part of code will be automatically notified of
+# pull requests that modify that part of the codebase. For more information on
+# the syntax and use of CODEOWNERS files, please use GitHub's documentation at
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# default owners for everything within the repo
+* @agapichq/global-owner
